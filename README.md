@@ -1,2 +1,15 @@
 # HR-Payroll
-HR-Payroll KW
+employee-onboarding-portal
+│
+├── public
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── models
+│   └── Employee.js
+│
+├── server.js
+├── package.json
+└── README.md
+
