@@ -1,20 +1,5 @@
-# HR-Payroll
-employee-onboarding-portal
-│
-├── public
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── models
-│   └── Employee.js
-│
-├── server.js
-├── package.json
-└── README.md
-
 {
-  "name": "employee-onboarding-portal",
+  "name": "Corporate-HR-Projects",
   "version": "1.0.0",
   "description": "Simple employee onboarding portal",
   "main": "server.js",
